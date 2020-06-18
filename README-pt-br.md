@@ -1,6 +1,6 @@
 [See the readme in english](README.md)
 
-# :Ajude: O-Intermediário
+# Ajude Pessoas: O-Intermediário
 
 Esse é o projeto **O-Intermediário**, criado para ligar **O Doador ao que receberá a Doação** criado pela **Abel Sena / DevSenaCode**. 
 

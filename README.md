@@ -1,6 +1,6 @@
 [Ver o Leia-Me em Português](README-pt-br.md)
 
-# :Helpe People: O-Intermediário
+# Help People: O-Intermediário
 
 This is the **O-Intermediário** project, created to link **The Donor to the one who will receive the Donation** created by **Abel Sena / DevSenaCode**.
 
