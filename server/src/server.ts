@@ -17,3 +17,4 @@ app.use(errors());
 app.use(errorHandler);
 
 app.listen(3333); 
+console.log('Server Rodando!!!')
